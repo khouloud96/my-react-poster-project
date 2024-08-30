@@ -1,1 +1,1 @@
-# my-react-posters-project
+# my-react-poster-project
